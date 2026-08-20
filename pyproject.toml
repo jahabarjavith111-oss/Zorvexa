@@ -34,3 +34,9 @@ packages = ["zorvexa"]
 line-length = 100
 target-version = "py311"
 "conflict" = "replace"
+project.scripts = [
+    "zorvexa = zorvexa.main:main",
+]
+
+[project.scripts]
+zorvexa = "zorvexa.main:main"
