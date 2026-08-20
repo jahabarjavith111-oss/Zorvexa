@@ -1,0 +1,14 @@
+# Dockerignore for Zorvexa
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+.env
+.env.local
+.git/
+.hg/
+.bzr/
+CVS/
+
