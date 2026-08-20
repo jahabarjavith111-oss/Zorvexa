@@ -171,4 +171,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   <sub>Built with 🔥 by <a href="https://github.com/jahabarjavith111-oss">jahabarjavith111-oss</a> for the security community</sub>
-</p>
+</p>## Usage
+
+```bash
+# Start the server
+python -m zorvexa.main
+
+# Open your browser and go to: http://127.0.0.1:5000
+```
